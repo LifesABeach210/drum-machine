@@ -9,7 +9,7 @@ body {
     justify-content: center;
     margin: none;
     flex-direction: column;
-    background-color: #81b29a;
+    
 }
 
 .tip {
@@ -33,7 +33,7 @@ body {
 
 .background-center {
     flex: 1;
-    background-color: #f2cc8f;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -47,7 +47,7 @@ body {
 .core {
     flex: 1;
     width: 30%;
-    background-color: #f4f1de;
+   
     margin: 24px 0;
     border: 6px dashed #e07a5f;
 }
@@ -70,3 +70,12 @@ body {
     transform-origin: bottom center;
     animation: tick 1200ms ease-in-out infinite;
 }
+
+#changeBeat{
+display: flex;
+flex-direction: column;
+
+
+
+
+};
